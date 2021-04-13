@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GIF](https://raw.githubusercontent.com/ev31ing/ev31ing/master/nicegif.gif)
 <!--
 **ev31ing/ev31ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
